@@ -1,2 +1,2 @@
-# Projeto-jogo-freefire
+# Projeto-do-jogo-freefire
 Simulação do free fire
